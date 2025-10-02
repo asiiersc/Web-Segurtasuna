@@ -1,2 +1,3 @@
 # Web-Segurtasuna
-· ISSKS Proiektua · Web sistema garapena
+· ISSKS Proiektua 
+· Web sistema garapena
